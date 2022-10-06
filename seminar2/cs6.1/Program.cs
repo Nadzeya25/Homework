@@ -1,10 +1,11 @@
 ﻿// программа выводит третью цифру слева заданного числа или сообщает, что цифры нет
 
-int x = 8;  //int x = new Random().Next();
+int x = 78;  //int x = new Random().Next();
 Console.WriteLine(x);
-int num = x;
+int num = Math.Abs(x);//модуль ччисла
+Console.WriteLine(num);
 
-if (x > 99)
+if (num > 99)
 {
     while (num > 999)
     {
