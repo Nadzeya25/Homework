@@ -7,13 +7,13 @@ void FillArray(int[] box)
     int index = 0;
     while (index < size)
     {
-        box[index] = new Random().Next(-20, 20);
+        box[index] = new Random().Next(-15, 10);
         index++;
 
     }
 }
 
-void PrinrArray(int[] box)
+void PrintArray(int[] box)
 {
     int size = box.Length;
     int index = 0;
@@ -30,7 +30,7 @@ void PrinrArray(int[] box)
 int[] box = new int[8];   // задаем размер массива 8 элементов
 FillArray(box);
 Console.Write("[");
-PrinrArray(box);
+PrintArray(box);
 
 
 
