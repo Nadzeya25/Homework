@@ -1,0 +1,15 @@
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\bin\Debug\net6.0\N27.exe
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\bin\Debug\net6.0\N27.deps.json
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\bin\Debug\net6.0\N27.runtimeconfig.json
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\bin\Debug\net6.0\N27.dll
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\bin\Debug\net6.0\N27.pdb
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\obj\Debug\net6.0\N27.csproj.AssemblyReference.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\obj\Debug\net6.0\N27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\obj\Debug\net6.0\N27.AssemblyInfoInputs.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\obj\Debug\net6.0\N27.AssemblyInfo.cs
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\obj\Debug\net6.0\N27.csproj.CoreCompileInputs.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\obj\Debug\net6.0\N27.dll
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\obj\Debug\net6.0\refint\N27.dll
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\obj\Debug\net6.0\N27.pdb
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\obj\Debug\net6.0\N27.genruntimeconfig.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar4\N27\obj\Debug\net6.0\ref\N27.dll
