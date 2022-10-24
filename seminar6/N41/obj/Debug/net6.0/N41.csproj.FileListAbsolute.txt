@@ -1,0 +1,15 @@
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\bin\Debug\net6.0\N41.exe
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\bin\Debug\net6.0\N41.deps.json
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\bin\Debug\net6.0\N41.runtimeconfig.json
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\bin\Debug\net6.0\N41.dll
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\bin\Debug\net6.0\N41.pdb
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\obj\Debug\net6.0\N41.csproj.AssemblyReference.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\obj\Debug\net6.0\N41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\obj\Debug\net6.0\N41.AssemblyInfoInputs.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\obj\Debug\net6.0\N41.AssemblyInfo.cs
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\obj\Debug\net6.0\N41.csproj.CoreCompileInputs.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\obj\Debug\net6.0\N41.dll
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\obj\Debug\net6.0\refint\N41.dll
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\obj\Debug\net6.0\N41.pdb
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\obj\Debug\net6.0\N41.genruntimeconfig.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar6\N41\obj\Debug\net6.0\ref\N41.dll
