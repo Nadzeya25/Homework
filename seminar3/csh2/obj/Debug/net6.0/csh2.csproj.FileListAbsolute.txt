@@ -1,0 +1,15 @@
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\bin\Debug\net6.0\csh2.exe
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\bin\Debug\net6.0\csh2.deps.json
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\bin\Debug\net6.0\csh2.runtimeconfig.json
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\bin\Debug\net6.0\csh2.dll
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\bin\Debug\net6.0\csh2.pdb
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\obj\Debug\net6.0\csh2.csproj.AssemblyReference.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\obj\Debug\net6.0\csh2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\obj\Debug\net6.0\csh2.AssemblyInfoInputs.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\obj\Debug\net6.0\csh2.AssemblyInfo.cs
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\obj\Debug\net6.0\csh2.csproj.CoreCompileInputs.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\obj\Debug\net6.0\csh2.dll
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\obj\Debug\net6.0\refint\csh2.dll
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\obj\Debug\net6.0\csh2.pdb
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\obj\Debug\net6.0\csh2.genruntimeconfig.cache
+C:\Users\lustr\OneDrive\Документы\ПрограммаРазработчик\projects\Homework\seminar3\csh2\obj\Debug\net6.0\ref\csh2.dll
