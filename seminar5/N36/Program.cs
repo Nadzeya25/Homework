@@ -40,7 +40,7 @@ void Summa(int[] box)
 
     while (index < count)
     {
-        if (index % 2 != 0)
+        if (index % 2 != 0)//неправильно надо нечет позиц, а не нечет индекс
         {
 
             sum = sum + box[index]; //считает совпадения 
