@@ -21,8 +21,8 @@ int[,] myArray =  {
                    {11, 93, -8, -1, 0, 1, 7}
                    };
 PrintArray(myArray);
-Console.WriteLine($"количество строк : {myArray.GetLength(0)} ");
-Console.WriteLine($"количество столбцов : {myArray.GetLength(1)} ");
+// Console.WriteLine($"количество строк : {myArray.GetLength(0)} ");
+// Console.WriteLine($"количество столбцов : {myArray.GetLength(1)} ");
 
 
 Console.Write("Введите номер строки: ");
