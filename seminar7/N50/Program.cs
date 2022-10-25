@@ -30,7 +30,11 @@ int rows = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите номер столбца: ");
 int columns = Convert.ToInt32(Console.ReadLine());
 
-if ( rows  >  myArray.GetLength(0)|| columns > myArray.GetLength(1) )
+if ( rows > myArray.GetLength(0)
+   ||rows < 1 
+   ||columns > myArray.GetLength(1) 
+   ||columns < 1
+)
 {
     Console.WriteLine("Такого элемента нет ");
 }
