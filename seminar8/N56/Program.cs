@@ -51,6 +51,7 @@ for (int j = 1; j < m; j++)
     if (res1[j] < res1[min])   
         min = j;
 }
+
 Console.WriteLine();
 Console.WriteLine($"наименьшую сумму элементов ({res1[min]}) имеет {min+1} строка ");
 Console.WriteLine();
