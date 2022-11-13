@@ -14,7 +14,15 @@ double b1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите значение b2 для второй функции: ");
 double b2 = Convert.ToDouble(Console.ReadLine());
 
-    double x = (b1 - b2) / (k2 - k1);
-    double y = k1 * x + b1;
-    Console.WriteLine($"Графики данных функций пересекаются в точке с координатами ({x}, {y})");
+    if (k1 != k2)
+{
+double x = (b1 - b2) / (k2 - k1);
+double y = k1 * x + b1;
+Console.WriteLine($"Графики данных функций пересекаются в точке с координатами ({x}, {y})");
+
+}
+else
+{
+Console.WriteLine($"Графики данных функций не пересекаются");
+}
 

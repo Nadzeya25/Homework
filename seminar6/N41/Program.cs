@@ -40,8 +40,6 @@ void PrintArray(int[] box)
         i++;
     }
 }
-
-
 FillArray(array);
 Console.Write("проверьте введенные числа : [");
 PrintArray(array);
