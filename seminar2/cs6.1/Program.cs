@@ -1,6 +1,6 @@
 ﻿// программа выводит третью цифру слева заданного числа или сообщает, что цифры нет
 
-int x = 78;  //int x = new Random().Next();
+int x = -132;  //int x = new Random().Next();
 Console.WriteLine(x);
 int num = Math.Abs(x);//модуль ччисла
 Console.WriteLine(num);
