@@ -22,7 +22,8 @@ void PrintArray(int[,] box)
 PrintArray(array);
 Console.WriteLine();
 
-// int[,] sortArray = new int[m, n];
+
+
 void SortArray(int[,] box)
 {
     for (int i = 0; i < box.GetLength(0); i++)
