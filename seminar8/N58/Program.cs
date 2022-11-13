@@ -22,6 +22,7 @@ void FillArray(int[,] box)
         }
     }
 }
+
 void PrintArray(int[,] box)
 {
     for (int i = 0; i < box.GetLength(0); i++)
