@@ -28,22 +28,25 @@ void PrintArray(double[] box)
     }
 }
 
-double[] arr = new double[5];   
+double[] arr = new double[5];
 FillArray(arr);
 Console.Write("[");
 PrintArray(arr);
 
-void SelectionSort(double[]box)
+void SelectionSort(double[] box)
 {
     for (int i = 0; i < box.Length - 1; i++)
     {
         int minPosition = i;
         for (int j = i + 1; j < box.Length; j++)
-            if (box[j] < box[minPosition]) minPosition = j;
-   
-   double temp = box[i];
-    box[i] = box[minPosition];
-    box[minPosition] = temp;
+            if (box[j] < box[minPosition])
+            {
+                minPosition = j;
+            }
+
+        double temp = box[i];
+        box[i] = box[minPosition];
+        box[minPosition] = temp;
     }
 }
 
